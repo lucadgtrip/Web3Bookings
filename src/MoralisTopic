@@ -1,0 +1,22 @@
+rentalCreated (
+        string,
+        string,
+        string,
+        string,
+        string,
+        string,
+        string,
+        uint256,
+        uint256,
+        string[],
+        uint256,
+        address
+    )
+
+newDatesBooked (
+        string[],
+        uint256,
+        address,
+        string,
+        string 
+    )

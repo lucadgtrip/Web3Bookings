@@ -30,8 +30,8 @@
 }
 
 .logo{
-  width:10vw;
-  height:calc(10vw*0.3)
+  width:200px;
+  height:60px
 }
 
 .tabContent {
@@ -96,10 +96,10 @@
 }
 
 .randomLocation {
-  margin-top: 25vh;
+  margin-top: 12vh;
   color: white;
   width: 300px;
-  padding-left:100px;
+  padding-left:330px;
 }
 
 .title {
